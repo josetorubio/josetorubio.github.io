@@ -3,7 +3,7 @@ layout: post
 title: Psychological safety for thinking strategically
 ---
 
-In this post, I would like to share with you my personal experience and development thanks to Manager Development Experience (MDE) program by adidas.
+In this post, I would like to share with you a bit of my personal experience and development thanks to Manager Development Experience (MDE) program by adidas.
 I was lucky enough to be selected to participate in this program that I started about 9 months ago, so I would like to share with you some points of my personal experience and development during this time.
 
 Thanks to this initiative, I´ve met, learn and work with smart and brilliant people from different departments in adidas, people which I´d probably  never have the opportunity to interact with in a daily work, and this interaction made me realize how lucky I am to be part of this company and be surrounded by such talented people in all areas.
