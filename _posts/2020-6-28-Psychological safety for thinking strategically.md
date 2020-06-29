@@ -44,7 +44,7 @@ Having this new vision allows me to prioritize better, and in some cases, challe
 
 As consequence of knowing why things needs to be done, we are **providing clarity**, the team has a better vision to decide on what needs to be done and how needs to be done, as we understand the purpose of it because we know the why.
 
-### Evaluatinf different scenarios ###
+### Evaluating different scenarios ###
 Other important point of this strategical thinking I´ve started to develop is **evaluating different scenarios**, think in the benefits and drawbacks, and somehow create a mental plan for each one, that way you can work proactively towards these scenarios, so you are better prepared when the scenario changes. 
 
 ### Conclusion ###
