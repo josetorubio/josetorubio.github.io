@@ -27,8 +27,8 @@ Creating a psychologically safe environment is a task of everyone in the team, b
 ## Thinking Strategically
 
 The other big point I realized was important for my development and where I focused thanks to MDE is “Thinking strategically”. 
-I´ve work for almost 20 years as Software Engineer in different companies, but my main focus was almost always to get my tasks done, help others and attend to the meetings I had to.
-But with this new perspective provided by MDE where one of my points of improvement was Thinking Strategically, I´ve change my perspective while I´ve started applying the learnings:
+I´ve work for almost 20 years as Software Engineer in different companies, but my main focus was almost always to get my tasks done, help others and attend to the meetings I had trying to contribute with my ideas, but without questioning why I was doing that.
+Now, with this new perspective provided by MDE where one of my points of improvement was Thinking Strategically, I´ve change my perspective while I´ve started applying the learnings:
 
 ### Start with... WHY?
 Now, everything I do at work, like attending to meetings, prepare tasks, work on concrete tasks or whatever I´m about to do, I try to answer these questions before starting:
