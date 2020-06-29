@@ -16,7 +16,7 @@ Well, from my understanding it means you believe that you will not be punished i
 Having this believe and confidence can push you to take risks and actions that can end up in extraordinary results, speaking up and sharing “crazy” ideas, that can lead you or your team to do things differently with unexpected and extraordinary results.
 On the other hand, if you don´t feel psychologically safe and, for instance, you get a bad comment from your colleagues or your manager, your brain could interpret this as a threat.
 Under these circumstances, your amygdala will block your rational brain and move your body resources from your brain to other body organs, like muscles, lung and heart. 
-This behavior has a survival nature behind, as in human history this was effective when an individual was facing threat, like being surprised by a predator, so staying there starting to think did not get any advantage for survival, but running faster than ever before or being able  to jump higher into a tree did increase the probability of survive. 
+This behavior has a survival nature behind, as in human history this was effective when an individual was facing a threat, like being surprised by a predator, so staying there starting to think did not get any advantage for survival, but running faster than ever before or being able  to jump higher into a tree did increase the probability of survive. 
 The problem is that the world has evolved faster that our brain, and the amygdala behavior is still the same as in the past when nowadays you feel a threat because, for instance, you are stuck with a task, a college/boss bad comment, or when you cannot achieve a deadline, so in the moment you need more your rational brain, it is not there.
 
 ### How can this be avoided?
